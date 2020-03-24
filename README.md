@@ -1,2 +1,2 @@
 # testing
-## This is Jenkins CI/Cd
+## This is Jenkins CI/CD
